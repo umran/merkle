@@ -3,7 +3,7 @@ package merkle
 import (
 	"testing"
 
-	"github.com/umran/cowrie/crypto"
+	"github.com/umran/crypto"
 )
 
 type A struct {

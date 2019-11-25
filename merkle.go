@@ -3,7 +3,7 @@ package merkle
 import (
 	"math"
 
-	"github.com/umran/cowrie/crypto"
+	"github.com/umran/crypto"
 )
 
 // Tree ...
